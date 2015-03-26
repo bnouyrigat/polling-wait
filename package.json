@@ -1,0 +1,39 @@
+{
+  "name": "polling-wait",
+  "description": "A PollingWait function or promise to ease asynchronous testing.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bnouyrigat/polling-wait",
+  "author": {
+    "name": "Benoît Nouyrigat",
+    "email": "bnouyrigat@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bnouyrigat/polling-wait.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bnouyrigat/polling-wait/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bnouyrigat/polling-wait/blob/master/LICENSE.md"
+    }
+  ],
+  "main": "lib/polling-wait",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "bluebird": "2.9.14",
+    "jstest": "1.0.5"
+  },
+  "devDependencies": {
+    "jshint": "2.6.0",
+    "jshint-stylish": "1.0.0"
+  },
+  "keywords": []
+}
