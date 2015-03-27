@@ -1,7 +1,7 @@
 {
   "name": "polling-wait",
   "description": "A PollingWait function or promise to ease asynchronous testing.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/bnouyrigat/polling-wait",
   "author": {
     "name": "Benoît Nouyrigat",
